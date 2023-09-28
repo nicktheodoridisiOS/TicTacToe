@@ -8,12 +8,25 @@
 
 /* Begin PBXBuildFile section */
 		691988FC2AC5974E00ED2710 /* TicTacToeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691988FB2AC5974E00ED2710 /* TicTacToeApp.swift */; };
-		691988FE2AC5974E00ED2710 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691988FD2AC5974E00ED2710 /* ContentView.swift */; };
 		691989002AC5974F00ED2710 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 691988FF2AC5974F00ED2710 /* Assets.xcassets */; };
 		691989032AC5974F00ED2710 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 691989022AC5974F00ED2710 /* Preview Assets.xcassets */; };
 		6919890D2AC5974F00ED2710 /* TicTacToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6919890C2AC5974F00ED2710 /* TicTacToeTests.swift */; };
 		691989172AC5974F00ED2710 /* TicTacToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691989162AC5974F00ED2710 /* TicTacToeUITests.swift */; };
 		691989192AC5974F00ED2710 /* TicTacToeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691989182AC5974F00ED2710 /* TicTacToeUITestsLaunchTests.swift */; };
+		691989292AC5979900ED2710 /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691989282AC5979900ED2710 /* Alerts.swift */; };
+		6919892B2AC597A900ED2710 /* Move.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6919892A2AC597A900ED2710 /* Move.swift */; };
+		6919892D2AC597C100ED2710 /* AIViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6919892C2AC597C100ED2710 /* AIViewModel.swift */; };
+		6919892F2AC597D500ED2710 /* AgainstViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6919892E2AC597D500ED2710 /* AgainstViewModel.swift */; };
+		691989312AC597F500ED2710 /* TabNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691989302AC597F500ED2710 /* TabNavigationView.swift */; };
+		691989342AC5981A00ED2710 /* AIGameplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691989332AC5981A00ED2710 /* AIGameplayView.swift */; };
+		691989362AC5983200ED2710 /* AgainstGameplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691989352AC5983200ED2710 /* AgainstGameplayView.swift */; };
+		691989392AC5985600ED2710 /* AIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691989382AC5985600ED2710 /* AIView.swift */; };
+		6919893B2AC5986B00ED2710 /* AgainstMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6919893A2AC5986B00ED2710 /* AgainstMode.swift */; };
+		6919893D2AC5988300ED2710 /* DiscoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6919893C2AC5988300ED2710 /* DiscoverView.swift */; };
+		6919893F2AC598A100ED2710 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6919893E2AC598A100ED2710 /* SettingsView.swift */; };
+		691989422AC598C700ED2710 /* XIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691989412AC598C700ED2710 /* XIndicatorView.swift */; };
+		691989442AC598D400ED2710 /* AIOIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691989432AC598D400ED2710 /* AIOIndicatorView.swift */; };
+		691989462AC598E100ED2710 /* AOIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691989452AC598E100ED2710 /* AOIndicatorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +49,6 @@
 /* Begin PBXFileReference section */
 		691988F82AC5974E00ED2710 /* TicTacToe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TicTacToe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		691988FB2AC5974E00ED2710 /* TicTacToeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeApp.swift; sourceTree = "<group>"; };
-		691988FD2AC5974E00ED2710 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		691988FF2AC5974F00ED2710 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		691989022AC5974F00ED2710 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		691989082AC5974F00ED2710 /* TicTacToeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacToeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,6 +56,20 @@
 		691989122AC5974F00ED2710 /* TicTacToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacToeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		691989162AC5974F00ED2710 /* TicTacToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeUITests.swift; sourceTree = "<group>"; };
 		691989182AC5974F00ED2710 /* TicTacToeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		691989282AC5979900ED2710 /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
+		6919892A2AC597A900ED2710 /* Move.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Move.swift; sourceTree = "<group>"; };
+		6919892C2AC597C100ED2710 /* AIViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIViewModel.swift; sourceTree = "<group>"; };
+		6919892E2AC597D500ED2710 /* AgainstViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgainstViewModel.swift; sourceTree = "<group>"; };
+		691989302AC597F500ED2710 /* TabNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabNavigationView.swift; sourceTree = "<group>"; };
+		691989332AC5981A00ED2710 /* AIGameplayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIGameplayView.swift; sourceTree = "<group>"; };
+		691989352AC5983200ED2710 /* AgainstGameplayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgainstGameplayView.swift; sourceTree = "<group>"; };
+		691989382AC5985600ED2710 /* AIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIView.swift; sourceTree = "<group>"; };
+		6919893A2AC5986B00ED2710 /* AgainstMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgainstMode.swift; sourceTree = "<group>"; };
+		6919893C2AC5988300ED2710 /* DiscoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverView.swift; sourceTree = "<group>"; };
+		6919893E2AC598A100ED2710 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		691989412AC598C700ED2710 /* XIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XIndicatorView.swift; sourceTree = "<group>"; };
+		691989432AC598D400ED2710 /* AIOIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIOIndicatorView.swift; sourceTree = "<group>"; };
+		691989452AC598E100ED2710 /* AOIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AOIndicatorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +120,10 @@
 		691988FA2AC5974E00ED2710 /* TicTacToe */ = {
 			isa = PBXGroup;
 			children = (
+				691989252AC5977200ED2710 /* Model */,
+				691989262AC5977700ED2710 /* View */,
+				691989272AC5977D00ED2710 /* ViewModel */,
 				691988FB2AC5974E00ED2710 /* TicTacToeApp.swift */,
-				691988FD2AC5974E00ED2710 /* ContentView.swift */,
 				691988FF2AC5974F00ED2710 /* Assets.xcassets */,
 				691989012AC5974F00ED2710 /* Preview Content */,
 			);
@@ -125,6 +153,65 @@
 				691989182AC5974F00ED2710 /* TicTacToeUITestsLaunchTests.swift */,
 			);
 			path = TicTacToeUITests;
+			sourceTree = "<group>";
+		};
+		691989252AC5977200ED2710 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				691989282AC5979900ED2710 /* Alerts.swift */,
+				6919892A2AC597A900ED2710 /* Move.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		691989262AC5977700ED2710 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				691989402AC598BA00ED2710 /* Indicators */,
+				691989372AC5984B00ED2710 /* Tabs */,
+				691989322AC5980D00ED2710 /* Gameplay */,
+				691989302AC597F500ED2710 /* TabNavigationView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		691989272AC5977D00ED2710 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				6919892C2AC597C100ED2710 /* AIViewModel.swift */,
+				6919892E2AC597D500ED2710 /* AgainstViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		691989322AC5980D00ED2710 /* Gameplay */ = {
+			isa = PBXGroup;
+			children = (
+				691989332AC5981A00ED2710 /* AIGameplayView.swift */,
+				691989352AC5983200ED2710 /* AgainstGameplayView.swift */,
+			);
+			path = Gameplay;
+			sourceTree = "<group>";
+		};
+		691989372AC5984B00ED2710 /* Tabs */ = {
+			isa = PBXGroup;
+			children = (
+				691989382AC5985600ED2710 /* AIView.swift */,
+				6919893A2AC5986B00ED2710 /* AgainstMode.swift */,
+				6919893C2AC5988300ED2710 /* DiscoverView.swift */,
+				6919893E2AC598A100ED2710 /* SettingsView.swift */,
+			);
+			path = Tabs;
+			sourceTree = "<group>";
+		};
+		691989402AC598BA00ED2710 /* Indicators */ = {
+			isa = PBXGroup;
+			children = (
+				691989412AC598C700ED2710 /* XIndicatorView.swift */,
+				691989432AC598D400ED2710 /* AIOIndicatorView.swift */,
+				691989452AC598E100ED2710 /* AOIndicatorView.swift */,
+			);
+			path = Indicators;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,7 +344,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				691988FE2AC5974E00ED2710 /* ContentView.swift in Sources */,
+				691989442AC598D400ED2710 /* AIOIndicatorView.swift in Sources */,
+				6919892B2AC597A900ED2710 /* Move.swift in Sources */,
+				691989392AC5985600ED2710 /* AIView.swift in Sources */,
+				6919893D2AC5988300ED2710 /* DiscoverView.swift in Sources */,
+				691989292AC5979900ED2710 /* Alerts.swift in Sources */,
+				691989422AC598C700ED2710 /* XIndicatorView.swift in Sources */,
+				691989342AC5981A00ED2710 /* AIGameplayView.swift in Sources */,
+				691989312AC597F500ED2710 /* TabNavigationView.swift in Sources */,
+				6919892D2AC597C100ED2710 /* AIViewModel.swift in Sources */,
+				6919892F2AC597D500ED2710 /* AgainstViewModel.swift in Sources */,
+				691989362AC5983200ED2710 /* AgainstGameplayView.swift in Sources */,
+				6919893F2AC598A100ED2710 /* SettingsView.swift in Sources */,
+				6919893B2AC5986B00ED2710 /* AgainstMode.swift in Sources */,
+				691989462AC598E100ED2710 /* AOIndicatorView.swift in Sources */,
 				691988FC2AC5974E00ED2710 /* TicTacToeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
