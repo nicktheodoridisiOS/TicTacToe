@@ -90,5 +90,5 @@ struct AgainstMode: View {
 }
 
 #Preview {
-    AgainstMode(firstNamePlayerTf: .constant(""), secondNamePlayerTf: .constant(""), roundSelectedOption: .constant(0),isDarkModeEnabled: .constant(false))
+    AgainstMode(firstNamePlayerTf: .constant(""), secondNamePlayerTf: .constant(""), roundSelectedOption: .constant(0),isDarkModeEnabled: .constant(false)) 
 }

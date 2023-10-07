@@ -31,7 +31,7 @@ struct DiscoverView: View {
                                 VStack(spacing: 20){
                                     Image("tttIconL")
                                     
-                                    Text("Tic Tac Toe")
+                                    Text("TicTacToe")
                                         .foregroundColor(.white)
                                         .font(.title)
                                         .fontWeight(.bold)
