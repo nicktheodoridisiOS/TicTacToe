@@ -22,7 +22,7 @@ The "TicTacToe" app offers the ultimate experience of the classic tic-tac-toe ga
 
 ### Contact
 
-I'm always open to questions, suggestions, and comments. If you have any questions or need assistance, feel free to contact me at [nicktheodoridiscontact@gmail.com](mailto:nicktheodoridiscontact@gmail.com) or through my GitHub account.
+I'm always open to questions, suggestions and comments. If you have any questions or need assistance, feel free to contact me at [nicktheodoridiscontact@gmail.com](mailto:nicktheodoridiscontact@gmail.com) or through my GitHub account.
 
 ### Socials
 
@@ -35,6 +35,6 @@ Follow me on social media for the latest news and updates:
 ### License
 This project is distributed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
-This means you can use, modify, and share this work under the following conditions:
+This means you can use, modify and share this work under the following conditions:
 - You must attribute the original creator (attribution).
 - You may not use this work for commercial purposes (non-commercial use).
