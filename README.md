@@ -7,8 +7,7 @@ The "TicTacToe" app offers the ultimate experience of the classic tic-tac-toe ga
 
 **Double the Fun:** Invite a friend and create memories as you play tic-tac-toe together on the same device. Adjust settings to suit your preferences.
 
-<img width="1200" alt="description" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/f2aa2a29-8846-4b3b-b5c4-3ab5c6c30cb9">
-
+<img width="1200" alt="description" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/84d0484f-186a-49fd-a8d4-0c63f7464d83">
 
 ### Key Features
 - Two different game modes for endless fun.
