@@ -1,5 +1,5 @@
 ### TicTacToe Mobile Application
-<img width="1200" alt="cover" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/8e58a9d8-9211-4db4-8d3a-3e0230bef551">
+<img width="1200" alt="cover" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/3479e19e-9906-45d2-ba20-b4a581625571">
 The "TicTacToe" app offers the ultimate experience of the classic tic-tac-toe game, designed to allow you to play against artificial intelligence (AI) or challenge a friend on the same device. It's the game you love, enhanced with multiple customizations and settings to make it even more enjoyable.
 
 ### Available Modes
@@ -7,18 +7,22 @@ The "TicTacToe" app offers the ultimate experience of the classic tic-tac-toe ga
 
 **Double the Fun:** Invite a friend and create memories as you play tic-tac-toe together on the same device. Adjust settings to suit your preferences.
 
-<img width="1200" alt="description" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/358e4ba2-d12d-4f9c-a6d0-f046b9437eb0">
+<img width="1200" alt="description" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/22d69acb-e20a-40ef-ad93-f52965fc8627">
 
 ### Key Features
 - Two different game modes for endless fun.
 - Multiple settings and parameters for a personalized experience.
 - Keep track of your wins and matches to maintain your score.
 
-<img width="1200" alt="gameplay" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/8d40393a-0f31-4435-9c88-b62dccc59cdb">
+<img width="1200" alt="gameplay" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/9a22a479-ce50-46b2-9e8d-fe3b45385fe5">
 
 ### Display Preferences
 
-<img width="1200" alt="darkmode" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/43649d71-0bfe-44c0-8284-2d0f4aa1ee0f">
+<img width="1200" alt="darkmode" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/33837c0b-cefa-4d3c-a84c-32d202c77803">
+
+### Run Application
+
+https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/10247db1-6532-41df-bc89-b63e40ee786f
 
 ### Contact
 
