@@ -26,7 +26,7 @@ The TicTacToe app offers the ultimate experience of the classic tic-tac-toe game
 https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/10247db1-6532-41df-bc89-b63e40ee786f
 
 ### Project Tools 
-<img width="1200" alt="tools" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/f8ede17a-3a6a-43a0-82ec-345f5580762e">
+<img width="1200" alt="tools" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/bbe5e93d-c73a-48af-8693-ced1ed8653cb">
 
 ### Contact
 
