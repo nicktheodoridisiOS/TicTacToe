@@ -1,6 +1,7 @@
 ### TicTacToe Mobile Application
 <img width="1200" alt="cover" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/e9bb02f3-69dd-4d26-b48d-6eb96c84d1c9">
-The "TicTacToe" app offers the ultimate experience of the classic tic-tac-toe game, designed to allow you to play against artificial intelligence (AI) or challenge a friend on the same device. It's the game you love, enhanced with multiple customizations and settings to make it even more enjoyable.
+
+The TicTacToe app offers the ultimate experience of the classic tic-tac-toe game, designed to allow you to play against artificial intelligence (AI) or challenge a friend on the same device. It's the game you love, enhanced with multiple customizations and settings to make it even more enjoyable.
 
 ### Available Modes
 **Alternate Mode:** Test your wits against the app's AI opponent. Customize parameters such as the number of rounds and player names to tailor the game to your preferences.
