@@ -8,14 +8,14 @@ The TicTacToe app offers the ultimate experience of the classic tic-tac-toe game
 
 **Double the Fun:** Invite a friend and create memories as you play tic-tac-toe together on the same device. Adjust settings to suit your preferences.
 
-<img width="1200" alt="description" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/cf86b9a0-dc4d-430c-b911-fde4271258e5">
+<img width="1200" alt="description" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/7ed4ecad-9cd1-4850-90c8-8b5f6a480aab">
 
 ### Key Features
 - Two different game modes for endless fun.
 - Multiple settings and parameters for a personalized experience.
 - Keep track of your wins and matches to maintain your score.
 
-<img width="1200" alt="gameplay" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/63d5375a-e32b-4ec0-bb39-083609c1e4d0">
+<img width="1200" alt="gameplay" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/fdfb8f9f-acaf-437e-a344-52d2ed4b2f59">
 
 ### Display Preferences
 
@@ -26,7 +26,7 @@ The TicTacToe app offers the ultimate experience of the classic tic-tac-toe game
 https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/10247db1-6532-41df-bc89-b63e40ee786f
 
 ### Tools and Stack
-<img width="1200" alt="tools" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/8cd6c176-664b-43da-b4e2-d7e16ccc0a7d">
+<img width="1200" alt="tools" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/ada419ca-cf2d-45b6-89bc-9339b275ce23">
 
 ### Contact
 
