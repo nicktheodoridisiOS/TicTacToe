@@ -25,8 +25,15 @@ The TicTacToe app offers the ultimate experience of the classic tic-tac-toe game
 
 https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/10247db1-6532-41df-bc89-b63e40ee786f
 
-### Tools and Stack
-<img width="1200" alt="tools" src="https://github.com/nicktheodoridisiOS/TicTacToe/assets/122683142/ada419ca-cf2d-45b6-89bc-9339b275ce23">
+### Project Tools
+|Xcode|GitΗub|Figma|
+|:---:|:---:|:---:|
+|<img width="60" alt="mode" src="https://cdn.jim-nielsen.com/macos/512/xcode-2020-11-11.png?rf=1024">|<img width="60" alt="mode" src="https://cdn.jim-nielsen.com/macos/512/github-desktop-2021-05-20.png?rf=1024">|<img width="60" alt="mode" src="https://cdn.jim-nielsen.com/macos/512/figma-2021-05-05.png?rf=1024">|
+
+### Programming Stack
+|Swift|SwiftUI|
+|:---:|:---:|
+|<img width="60" alt="mode" src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png">|<img width="60" alt="mode" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-128x128_2x.png">|
 
 ### Contact
 
